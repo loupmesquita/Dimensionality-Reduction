@@ -13,4 +13,6 @@ plot these reductions onto scatter plots in dimension 2 and 3 as well, coloring 
 projected samples according to the label of the original sample. <br>
 At the end we should understand according to the results which dimensionality reduction method fit the best to the data
 
+## Disclaimer 
 
+The 3d plots may not charge on github, to visualize them you need to open the notebook in an appropriate editor (Colab, vscode...)
